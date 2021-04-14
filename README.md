@@ -11,5 +11,3 @@ your mouse corresponding to your hand movements and gestures. Simply speaking, a
     2) np.array()
     3) calibrateColor()
     4) cv2.contourArea()
-
-## Blog Link : http://robopathshala.in/blogs/2017/10/04/gesture-controlled-mouse/
